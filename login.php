@@ -26,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             
             header("Location: index.php");
             exit;
-        } //hello another test
+        } //testing another 1
     }
     
     $is_invalid = true;
